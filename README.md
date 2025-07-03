@@ -1,2 +1,7 @@
 # ji-cmse202-repo
-a repo for cmse202 
+Ji Luo  
+luoji1@msu.edu
+Econ
+2022
+Guangxi, China
+CSE102, CMSE201
