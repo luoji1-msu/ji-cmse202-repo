@@ -1,1 +1,1 @@
-*Ji Luo, Betty He, Mint Menakanit*
+# Ji Luo, Betty He, Mint Menakanit
