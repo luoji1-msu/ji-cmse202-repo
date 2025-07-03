@@ -4,4 +4,4 @@ luoji1@msu.edu\
 Econ\
 2022\
 Guangxi, China\
-CSE102, CMSE201\
+CSE102, CMSE201
